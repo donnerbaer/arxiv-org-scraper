@@ -1,0 +1,3 @@
+
+# Database ER-Diagram
+[![](https://mermaid.ink/img/pako:eNpdj7EOwjAMRH-l8twv6AwjEx0QymI1BiIaJ3KdAVX595oGMfQm35Nl360wJU8wgGOSU8CnYHTcmTJmkm5t5qvxfBu7IvOB6IsiHVmItCjGfOBTYiXWRqtj6CGSRAzeEuyvHLR7MNjoUd7OklXbw6Lp-uEJhgfOC_VQskelX-Q_zcj3lMyrFLPkgya5tIp707oBaj9Lpg?type=png)](https://mermaid.live/edit#pako:eNpdj7EOwjAMRH-l8twv6AwjEx0QymI1BiIaJ3KdAVX595oGMfQm35Nl360wJU8wgGOSU8CnYHTcmTJmkm5t5qvxfBu7IvOB6IsiHVmItCjGfOBTYiXWRqtj6CGSRAzeEuyvHLR7MNjoUd7OklXbw6Lp-uEJhgfOC_VQskelX-Q_zcj3lMyrFLPkgya5tIp707oBaj9Lpg)
