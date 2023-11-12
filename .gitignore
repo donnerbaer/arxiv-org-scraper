@@ -1,4 +1,5 @@
 __pycache__
 *.db
 *.zip
-pipeline-test.ipynb
+*/crawler-run.ipynb
+
